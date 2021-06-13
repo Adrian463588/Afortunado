@@ -7,7 +7,7 @@ Panduan Penggunaan :
 -	Setelah itu akan muncul MENU
 -	Silahkan pilih INPUT untuk memasukkan identitas kendaraan
 -	Untuk pengecekan kendaraan, klik DAFTAR KENDARAAN
--	Didalam DAFTAR KENDARAAN, Anda bisa melakukan Update dan Hapus Identitas Kendaraan dengan cara klik dahulu datagridview pada kendaraan yang ingin Anda Update maupun Hapu dan setelah melakukan Update maupun Hapus, Klik tombol DAFTAR KENDARAAN lagi untuk merefresh
+-	Didalam DAFTAR KENDARAAN, Anda bisa melakukan Update dan Hapus Identitas Kendaraan dengan cara klik dahulu datagridview pada kendaraan yang ingin Anda Update maupun Hapus dan setelah melakukan Update maupun Hapus, Klik tombol DAFTAR KENDARAAN lagi untuk merefresh
 -	Pada Menu SEWA Anda bisa mengklik data gridview pada kendaraan yang ingin disewa. Setelah itu isi identitas penyewa serta lama peminjaman. Kemudian klik button SEWA lagi untuk merefresh.
 -	Apabila kendaraan telah selesai disewa, klik data gridview pada kendaraan yang telah selesai disewa (pastikan data kendaraan dan penyewa muncul pada textbox) kemudian klik button SELESAI SEWA dan klik Menu SEWA pada bagian kiri untuk merefresh.
 -	Apabila Anda telah selesai menggunakan aplikasi, klik Menu Log Out untuk keluar.
